@@ -39,7 +39,25 @@ A web and Android application that connects incident reporting with staff review
 
 ---
 
-#### 02 &nbsp; Café Inventory & Order Management
+#### 02 &nbsp; Track-and-Trace
+
+**Campus lost & found management** &nbsp; / &nbsp; Academic team project
+
+A responsive web application for Bulacan State University that brings lost-item reports, found-item matching, ownership claims, and administrator verification into one workflow.
+
+- Lost and found reports, suggested matches, and claim tracking.
+- Proof-of-ownership review and item release workflows.
+- My contributions include report photo previews, editable reference settings, mobile role filters, and verification email improvements.
+
+**Built with:** Next.js · TypeScript · Tailwind CSS · MySQL
+
+[Explore source code →](https://github.com/l3n8n-ocd/track-and-trace) &nbsp;·&nbsp; [View my contributions →](https://github.com/l3n8n-ocd/track-and-trace/commits/main/?author=yenzclemente-blip)
+
+<sub>Collaborative project hosted in the team's repository. See its README for full team credits.</sub>
+
+---
+
+#### 03 &nbsp; Café Inventory & Order Management
 
 **Console-based business workflow** &nbsp; / &nbsp; Academic team project
 
@@ -59,9 +77,9 @@ A Java application for managing café products, supplies, recipes, suppliers, an
 
 | Area | Technologies used in my projects |
 | :--- | :--- |
-| Web | React, JavaScript, HTML, CSS, Vite |
+| Web | React, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Vite |
 | Mobile | Flutter, Dart |
-| Backend & data | Firebase Authentication, Cloud Firestore |
+| Backend & data | Firebase Authentication, Cloud Firestore, MySQL |
 | Programming foundations | Java, object-oriented programming |
 | Development workflow | Git, GitHub |
 
@@ -71,3 +89,4 @@ A Java application for managing café products, supplies, recipes, suppliers, an
   <strong>Practical problems. Thoughtful interfaces. Continuous learning.</strong><br />
   <sub>Thanks for exploring my work.</sub>
 </p>
+
