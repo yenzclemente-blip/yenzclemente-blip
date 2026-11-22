@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Clarence Mari V Clemente — Web and mobile development</title>
+  <desc id="desc">A navy portfolio banner with teal geometric details and a stylized interface illustration.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0c1729"/><stop offset="1" stop-color="#152d42"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#55e4ce"/><stop offset="1" stop-color="#79b9fa"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#b8d7f2" stroke-opacity=".045"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="20" fill="url(#grid)"/>
+  <circle cx="1180" cy="12" r="245" fill="#2fc6b3" opacity=".045"/>
+  <circle cx="1180" cy="12" r="180" fill="none" stroke="#55e4ce" stroke-opacity=".1"/>
+  <rect x="62" y="65" width="36" height="4" rx="2" fill="url(#accent)"/>
+  <text x="111" y="72" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="3" font-weight="600" fill="#74e1d3">SELECTED WORK / DEVELOPER PORTFOLIO</text>
+  <text x="60" y="145" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="-1.5" fill="#f1f6fc">Clarence Mari</text>
+  <text x="60" y="202" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="-1.5" fill="#f1f6fc">V Clemente<tspan fill="#55e4ce">.</tspan></text>
+  <text x="63" y="248" font-family="Segoe UI,Arial,sans-serif" font-size="21" fill="#b5c7d9">Web &amp; mobile development</text>
+  <text x="63" y="299" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="1.5" fill="#809bb5">REACT  /  FLUTTER  /  FIREBASE  /  JAVA</text>
+  <g transform="translate(849 72)">
+    <rect x="0" y="0" width="286" height="203" rx="13" fill="#0c1729" stroke="#456078"/>
+    <path d="M0 34H286" stroke="#2d4259"/>
+    <circle cx="18" cy="17" r="4" fill="#55e4ce"/><circle cx="32" cy="17" r="4" fill="#6987a1"/><circle cx="46" cy="17" r="4" fill="#6987a1"/>
+    <rect x="22" y="56" width="116" height="8" rx="4" fill="#d6e5f3"/>
+    <rect x="22" y="76" width="171" height="5" rx="2.5" fill="#3c5872"/>
+    <rect x="22" y="103" width="69" height="71" rx="7" fill="#173a45"/>
+    <rect x="102" y="103" width="69" height="71" rx="7" fill="#182d45"/>
+    <rect x="182" y="103" width="69" height="71" rx="7" fill="#182d45"/>
+    <path d="M38 145l11 9 24-28" fill="none" stroke="#55e4ce" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="119" y="120" width="34" height="5" rx="2.5" fill="#79b9fa"/>
+    <rect x="119" y="134" width="24" height="5" rx="2.5" fill="#486683"/>
+    <rect x="119" y="148" width="31" height="5" rx="2.5" fill="#486683"/>
+    <rect x="200" y="121" width="32" height="32" rx="6" fill="none" stroke="#688fac" stroke-width="2"/>
+    <rect x="237" y="91" width="87" height="155" rx="13" fill="#112338" stroke="#6e90ab"/>
+    <rect x="264" y="100" width="34" height="4" rx="2" fill="#3c5872"/>
+    <rect x="249" y="119" width="63" height="41" rx="6" fill="#19444c"/>
+    <path d="M270 136l7 7 13-14" fill="none" stroke="#55e4ce" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="249" y="173" width="48" height="5" rx="2.5" fill="#a5bdd1"/>
+    <rect x="249" y="187" width="57" height="4" rx="2" fill="#3c5872"/>
+    <rect x="249" y="199" width="39" height="4" rx="2" fill="#3c5872"/>
+    <rect x="249" y="219" width="63" height="15" rx="5" fill="#55e4ce"/>
+  </g>
+</svg>
